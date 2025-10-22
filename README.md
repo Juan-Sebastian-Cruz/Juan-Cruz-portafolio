@@ -37,7 +37,7 @@ He desarrollado dos agentes de IA, **Adamain** y **Cronos**, que ejemplifican mi
 
 ---
 
-### 💰 [Adamain: Asistente de Finanzas Personales con IA](projects/adamain/README.md)# 💰 Adamain: Asistente de Finanzas Personales con IA
+# 💰 Adamain: Asistente de Finanzas Personales con IA
 
 ## ✨ Por Juan Cruz - Llevando el Control Financiero al Siguiente Nivel
 
@@ -81,7 +81,7 @@ Este proyecto demuestra mi habilidad para:
 
 ---
 
-### ⏰ # ⏰ Cronos: Asistente de Productividad y Planificación Semanal con IA
+# ⏰ Cronos: Asistente de Productividad y Planificación Semanal con IA
 
 ## ✨ Por Juan Cruz - Tu Planificador Personal Inteligente
 
