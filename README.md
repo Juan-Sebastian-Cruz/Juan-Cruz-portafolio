@@ -41,7 +41,7 @@ He desarrollado dos agentes de IA, **Adamain** y **Cronos**, que ejemplifican mi
 
 ## ✨ Por Juan Cruz - Llevando el Control Financiero al Siguiente Nivel
 
-**Adamain** es un asistente de finanzas personales basado en IA que he desarrollado para el usuario "Cruzero", enfocado en la precisión y la automatización inteligente de la gestión de datos financieros. Mi objetivo principal con Adamain es transformar la tarea a menudo tediosa del registro financiero en un proceso intuitivo y sin errores.
+**Adamain** es un asistente de finanzas personales basado en IA que he desarrollado para el usuario, enfocado en la precisión y la automatización inteligente de la gestión de datos financieros. Mi objetivo principal con Adamain es transformar la tarea a menudo tediosa del registro financiero en un proceso intuitivo y sin errores.
 
 ## 🎯 Propósito y Funcionalidad
 
